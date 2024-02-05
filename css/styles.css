@@ -1,0 +1,9 @@
+.dayMode{
+    background-color: bisque;
+    color: lightskyblue;
+}
+
+.nightMode {
+    background-color: darkgreen;
+    color: red;
+}
